@@ -1,0 +1,42 @@
+#container{
+    margin:10px auto;
+    width:90%;
+    min-height: 700px;
+    border: 1px solid black;
+}
+
+#header{
+    margin:30px auto;
+    width:90%;
+    min-height: 40px;
+    background-color: blue;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 30px;
+    font-size:15px;
+}
+
+#action{
+    margin:30px auto;
+    display:block;
+    width: 200px;
+    height: 30px;
+    background-color: red;
+}
+
+#reset{
+    margin:30px auto;
+    display:block;
+    width: 200px;
+    height: 30px;
+ 
+}
+
+#display{
+    border: 1px solid black;
+    min-height:200px;
+    width:70%;
+    margin:auto;
+    text-align: center;
+    padding-top: 150px;
+}
